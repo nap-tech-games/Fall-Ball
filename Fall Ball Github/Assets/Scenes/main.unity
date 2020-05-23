@@ -2077,6 +2077,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4355450904108740, guid: df2b6991dc3d24aa287eb32e6838a49d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.028
+      objectReference: {fileID: 0}
+    - target: {fileID: 4355450904108740, guid: df2b6991dc3d24aa287eb32e6838a49d, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.91594243
+      objectReference: {fileID: 0}
     - target: {fileID: 4652561852607484, guid: df2b6991dc3d24aa287eb32e6838a49d, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -2129,7 +2137,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 6a911b29f2f0b1c45ad238fb1c5c3551, type: 2}
+      objectReference: {fileID: 2100000, guid: 8769a8e496c7f5c4488420c3eeea1c72, type: 2}
     - target: {fileID: 212146423030433742, guid: df2b6991dc3d24aa287eb32e6838a49d,
         type: 3}
       propertyPath: m_WasSpriteAssigned
