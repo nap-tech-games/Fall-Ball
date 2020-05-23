@@ -2114,12 +2114,42 @@ PrefabInstance:
       propertyPath: m_CullingMask.m_Bits
       value: 4294967295
       objectReference: {fileID: 0}
+    - target: {fileID: 212044721308465270, guid: df2b6991dc3d24aa287eb32e6838a49d,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: e6932a1409ab99c428a2226c94a37335, type: 2}
     - target: {fileID: 212146423030433742, guid: df2b6991dc3d24aa287eb32e6838a49d,
         type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 9a40c60b5e928524a90de3f74d57d013,
+      objectReference: {fileID: 21300000, guid: 8f02662b59aa10346b97bba86a7643eb,
         type: 3}
+    - target: {fileID: 212146423030433742, guid: df2b6991dc3d24aa287eb32e6838a49d,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6a911b29f2f0b1c45ad238fb1c5c3551, type: 2}
+    - target: {fileID: 212146423030433742, guid: df2b6991dc3d24aa287eb32e6838a49d,
+        type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 212146423030433742, guid: df2b6991dc3d24aa287eb32e6838a49d,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 20.48
+      objectReference: {fileID: 0}
+    - target: {fileID: 212146423030433742, guid: df2b6991dc3d24aa287eb32e6838a49d,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 20.48
+      objectReference: {fileID: 0}
+    - target: {fileID: 212251738847773408, guid: df2b6991dc3d24aa287eb32e6838a49d,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: e6932a1409ab99c428a2226c94a37335, type: 2}
     m_RemovedComponents:
     - {fileID: 81052843534884722, guid: df2b6991dc3d24aa287eb32e6838a49d, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: df2b6991dc3d24aa287eb32e6838a49d, type: 3}
