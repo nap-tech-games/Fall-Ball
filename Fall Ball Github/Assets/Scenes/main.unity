@@ -1736,29 +1736,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   position: {x: -1, y: -0.5}
---- !u!1 &1170435653 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1732594434998210, guid: df2b6991dc3d24aa287eb32e6838a49d,
-    type: 3}
-  m_PrefabInstance: {fileID: 1462936942}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1170435659
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1170435653}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8b9a305e18de0c04dbd257a21cd47087, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  sharedProfile: {fileID: 0}
-  isGlobal: 1
-  blendDistance: 0
-  weight: 1
-  priority: 0
 --- !u!1 &1224760811
 GameObject:
   m_ObjectHideFlags: 0
@@ -6753,6 +6730,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1462936945, guid: df2b6991dc3d24aa287eb32e6838a49d, type: 3}
+      propertyPath: came
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 1732594434998210, guid: df2b6991dc3d24aa287eb32e6838a49d, type: 3}
       propertyPath: m_Name
       value: Main Camera
